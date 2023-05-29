@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+chat_test.py
+satpic.jpg
+
+
 # Distribution / packaging
 .Python
 build/
